@@ -8,7 +8,7 @@ Email: sidraahmad1807@gmail.com
 
 Location: Dehradun, Uttarakhand
 
-Thanks for visiting
+Thanks for visiting !
 <!--
 **sidrahmad/sidrahmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
