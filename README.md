@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on GEN AI
+- 🌱 I’m currently learning advance problem solving 
+- 🤔 I’m looking for help with resources Prompt engg
+
+Email: sidraahmad1807@gmail.com
+
+Location: Dehradun, Uttarakhand
 <!--
 **sidrahmad/sidrahmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
