@@ -18,6 +18,12 @@
 ###
 
 <div align="center">
+  <img height="150" src="https://gifsec.com/wp-content/uploads/2022/11/purple-anime-gif-8.gif"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
@@ -76,12 +82,11 @@
 
 ###
 
-<div align="center">
-  <img height="150" src="https://gifsec.com/wp-content/uploads/2022/11/purple-anime-gif-8.gif"  />
-</div>
-<div align="center">
+
+
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Icyvi2077r?ext=activity)
-</div>
+
 
 <p align="center">Thank you for visiting !</p>
 
